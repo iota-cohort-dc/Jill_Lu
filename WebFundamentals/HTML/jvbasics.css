@@ -1,0 +1,34 @@
+body {
+  width: 970px;
+  margin: 10xp 0xp 0xp 10xp;
+  background: rgb(45,86,127);
+}
+
+
+#header {
+  background: rgb(178,44,44);
+  border-radius: 10xp;
+  color: white;
+  padding: 1xp 0xp 1xp 10xp;
+}
+
+#leftNav {
+  background: rgb(44, 128, 141);
+  border-radius: 10xp;
+  display: inline-block;
+  margin-right: 10xp;
+}
+
+#main {
+  display: inline-block;
+  background: rgb(14, 24, 34);
+  color: lightblue;
+  font-size: 8;
+  width: 500xp;
+}
+
+#footer {
+  background: rgb(94, 102, 115);
+  border-radius: 10xp;
+  width: 970px;
+}

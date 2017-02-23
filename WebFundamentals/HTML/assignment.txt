@@ -1,0 +1,111 @@
+Last login: Thu Feb 23 00:00:46 on ttys000
+Jills-MacBook-Air:~ jillybean620$ cd desktop
+Jills-MacBook-Air:desktop jillybean620$ mkdir DojoAssignments
+Jills-MacBook-Air:desktop jillybean620$ ls
+Atom.app			enrollment_agreement.pdf
+CD_Catalog_VA.pdf		jsloups.png
+DojoAssignments			node-v7.5.0.pkg
+MAMP_MAMP_PRO_4.1.1.pkg		test
+coding_dojo_assignments
+Jills-MacBook-Air:desktop jillybean620$ cd dojoassignments
+Jills-MacBook-Air:dojoassignments jillybean620$ touch WebFundamentals
+Jills-MacBook-Air:dojoassignments jillybean620$ touch Python
+Jills-MacBook-Air:dojoassignments jillybean620$ touch MEAN
+Jills-MacBook-Air:dojoassignments jillybean620$ touch Ruby
+Jills-MacBook-Air:dojoassignments jillybean620$ touch iOS
+Jills-MacBook-Air:dojoassignments jillybean620$ touch netCore
+Jills-MacBook-Air:dojoassignments jillybean620$ ls
+MEAN		Ruby		iOS
+Python		WebFundamentals	netCore
+Jills-MacBook-Air:dojoassignments jillybean620$ cd webfundamentals
+-bash: cd: webfundamentals: Not a directory
+Jills-MacBook-Air:dojoassignments jillybean620$ cd python
+-bash: cd: python: Not a directory
+Jills-MacBook-Air:dojoassignments jillybean620$ cd/ python
+-bash: cd/: No such file or directory
+Jills-MacBook-Air:dojoassignments jillybean620$ cd Python
+-bash: cd: Python: Not a directory
+Jills-MacBook-Air:dojoassignments jillybean620$ mkdir iOS
+mkdir: iOS: File exists
+Jills-MacBook-Air:dojoassignments jillybean620$ cd iOs
+-bash: cd: iOs: Not a directory
+Jills-MacBook-Air:dojoassignments jillybean620$ cd iOS
+-bash: cd: iOS: Not a directory
+Jills-MacBook-Air:dojoassignments jillybean620$ rm python
+Jills-MacBook-Air:dojoassignments jillybean620$ rm ruby
+Jills-MacBook-Air:dojoassignments jillybean620$ rm ios
+Jills-MacBook-Air:dojoassignments jillybean620$ ls
+MEAN		WebFundamentals	netCore
+Jills-MacBook-Air:dojoassignments jillybean620$ rm mean
+Jills-MacBook-Air:dojoassignments jillybean620$ rm netcore
+Jills-MacBook-Air:dojoassignments jillybean620$ rm webfundamentals
+Jills-MacBook-Air:dojoassignments jillybean620$ ls
+Jills-MacBook-Air:dojoassignments jillybean620$ mkdir Python
+Jills-MacBook-Air:dojoassignments jillybean620$ ls
+Python
+Jills-MacBook-Air:dojoassignments jillybean620$ mkdir MEAN
+Jills-MacBook-Air:dojoassignments jillybean620$ mkdir iOS
+Jills-MacBook-Air:dojoassignments jillybean620$ mkdir netCore
+Jills-MacBook-Air:dojoassignments jillybean620$ mkdir Ruby
+Jills-MacBook-Air:dojoassignments jillybean620$ mkdir WebFundamentals
+Jills-MacBook-Air:dojoassignments jillybean620$ cd Python
+Jills-MacBook-Air:Python jillybean620$ touch about.txt
+Jills-MacBook-Air:Python jillybean620$ cd ..
+Jills-MacBook-Air:dojoassignments jillybean620$ cd mean
+Jills-MacBook-Air:mean jillybean620$ touch about.txt
+Jills-MacBook-Air:mean jillybean620$ ls
+about.txt
+Jills-MacBook-Air:mean jillybean620$ cd ..
+Jills-MacBook-Air:dojoassignments jillybean620$ cd ios
+Jills-MacBook-Air:ios jillybean620$ touch about.txt
+Jills-MacBook-Air:ios jillybean620$ cd ..
+Jills-MacBook-Air:dojoassignments jillybean620$ cd ruby
+Jills-MacBook-Air:ruby jillybean620$ touch about.txt
+Jills-MacBook-Air:ruby jillybean620$ cd..
+-bash: cd..: command not found
+Jills-MacBook-Air:ruby jillybean620$ cd ..
+Jills-MacBook-Air:dojoassignments jillybean620$ cd netcore
+Jills-MacBook-Air:netcore jillybean620$ touch about.txt
+Jills-MacBook-Air:netcore jillybean620$ cd ..
+Jills-MacBook-Air:dojoassignments jillybean620$ cd webfundamentals
+Jills-MacBook-Air:webfundamentals jillybean620$ touch about.txt
+Jills-MacBook-Air:webfundamentals jillybean620$ cd ..
+Jills-MacBook-Air:dojoassignments jillybean620$ cd web
+-bash: cd: web: No such file or directory
+Jills-MacBook-Air:dojoassignments jillybean620$ cd webfundamentals
+Jills-MacBook-Air:webfundamentals jillybean620$ mkdir Git
+Jills-MacBook-Air:webfundamentals jillybean620$ mkdir HTML
+Jills-MacBook-Air:webfundamentals jillybean620$ mkdir CSS
+Jills-MacBook-Air:webfundamentals jillybean620$ mkdir Javascript
+Jills-MacBook-Air:webfundamentals jillybean620$ cd git
+Jills-MacBook-Air:git jillybean620$ touch about.txt
+Jills-MacBook-Air:git jillybean620$ cd ..
+Jills-MacBook-Air:webfundamentals jillybean620$ cd html
+Jills-MacBook-Air:html jillybean620$ touch about.txt
+Jills-MacBook-Air:html jillybean620$ cd ..
+Jills-MacBook-Air:webfundamentals jillybean620$ cd css
+Jills-MacBook-Air:css jillybean620$ touch about.txt
+Jills-MacBook-Air:css jillybean620$ cd ..
+Jills-MacBook-Air:webfundamentals jillybean620$ cd javascript
+Jills-MacBook-Air:javascript jillybean620$ touch about.txt
+Jills-MacBook-Air:javascript jillybean620$ cd ..
+Jills-MacBook-Air:webfundamentals jillybean620$ cd html
+Jills-MacBook-Air:html jillybean620$ touch indentation.html
+Jills-MacBook-Air:html jillybean620$ ls
+about.txt		indentation.html
+Jills-MacBook-Air:html jillybean620$ -r
+-bash: -r: command not found
+Jills-MacBook-Air:html jillybean620$ -R
+-bash: -R: command not found
+Jills-MacBook-Air:html jillybean620$ is -r
+-bash: is: command not found
+Jills-MacBook-Air:html jillybean620$ ls -r
+indentation.html	about.txt
+Jills-MacBook-Air:html jillybean620$ cd assignment.txt
+-bash: cd: assignment.txt: No such file or directory
+Jills-MacBook-Air:html jillybean620$ cd webfundamentals
+-bash: cd: webfundamentals: No such file or directory
+Jills-MacBook-Air:html jillybean620$ touch assignment.txt
+Jills-MacBook-Air:html jillybean620$ ls
+about.txt		assignment.txt		indentation.html
+Jills-MacBook-Air:html jillybean620$ 
